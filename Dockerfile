@@ -1,4 +1,4 @@
-FROM node:6.3.1
+FROM node:7.7.4
 
 ENV phantomjsVersion 2.1.1
 ENV buildDeps build-essential
